@@ -12,17 +12,17 @@
 
 <div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap;">
   <a href="https://github.com/humblebeeintel" target="_blank" title="GitHub">
-    <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="36" alt="GitHub">
+    <img src="https://github.com/humblebeeintel/.github/blob/main/assets/social/logo-social-github.png" width="36" alt="GitHub">
   </a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
   
   <a href="https://www.linkedin.com/company/humblebeeai" target="_blank" title="LinkedIn">
-    <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="36" alt="LinkedIn">
+    <img src="https://github.com/humblebeeintel/.github/blob/main/assets/social/logo-social-linkedin.png" width="36" alt="LinkedIn">
   </a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
   
   <a href="https://www.youtube.com/@HumbleBeeAI" target="_blank" title="YouTube">
-    <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-youtube.png" width="36" alt="YouTube">
+    <img src="https://github.com/humblebeeintel/.github/blob/main/assets/social/logo-social-youtube.png" width="36" alt="YouTube">
   </a>
 </div>
 
