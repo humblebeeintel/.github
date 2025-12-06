@@ -11,7 +11,7 @@
   </p>
 
 <div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap;">
-  <a href="https://github.com/humblebeeintel" target="_blank" title="GitHub">
+  <a href="https://github.com/humblebeeai" target="_blank" title="GitHub">
     <img src="../assets/social/logo-social-github.png" width="36" alt="GitHub">
   </a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
